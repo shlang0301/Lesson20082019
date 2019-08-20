@@ -8,7 +8,7 @@ namespace Lesson20082019
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
         }
     }
